@@ -4,5 +4,5 @@ I'm a student at Post and Telecommunication Institute of Technology, Ha Noi, Vie
 
 
 - 🌱 I'm learning the basic programing skill
-- 📁 I will post the document of my major at this git
+- 📁 I will update and post the document of my major at my university
 
